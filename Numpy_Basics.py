@@ -6,7 +6,12 @@ Created on Mon Sep 13 10:55:51 2021
 """
 
 #In this file, you will find the basic applications of Numpy.
-#We use Numpy because it is very usefl in matrix operations.
+#It is the fundamental library of python, used to perform scientific computing.
+#It provides high-performance multidimensional arrays and tools to deal with them. 
+#A numpy array is a grid of values (of the same type) that are indexed 
+#by a tuple of positive integers, numpy arrays are fast, easy to understand, and
+#give users the right to perform calculations across arrays.
+#We use Numpy because it is very useful in matrix operations.
 
 
 #%%
@@ -703,7 +708,7 @@ print(array_c)
 https://www.udemy.com/course/python-sfrdan-uzmanlga-programlama-1/
 https://www.youtube.com/watch?v=O85OWBJ2ayo  #Explanation of matrix exponentials
 https://www.hindawi.com/journals/mpe/2014/610907/
-
+https://www.geeksforgeeks.org/difference-between-pandas-vs-numpy/
 
 
 
